@@ -1,7 +1,9 @@
 body{
-    background: red;
-}
-canvas{
-    margin: auto;
-    position: relative;
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: seagreen;
 }
